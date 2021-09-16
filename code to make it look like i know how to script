@@ -5,13 +5,3 @@ int main() {
   cout << "Hello World!";
   return 0;
 }
-
-
-
-
-console.writeline(i);
-
-
-
-
-print("aaa")
