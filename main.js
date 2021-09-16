@@ -27,4 +27,4 @@ client.events = new Discord.Collection();
 
 
 
-client.login("ODY1Mzk5NjE5MTk4NjQ4MzMw.YPDcMw.GfJARbjSOiB1a7fmVQJ6DVI2Tlc");
+client.login("");
